@@ -1,4 +1,13 @@
-  <body>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tylen Wright's IT2024 portfolio sprng24</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+<body>
   <header>
     <h1>Green Pasture Stable and Training</h1>
   </header>
@@ -12,7 +21,8 @@
   
   <main>
     <h2> A complete horse training & boarding facility</h2>
-    <p>Green pasture stable and training is a full service training and boarding facility, located just 20 miles east of Cininnati in Amila, ohio. whether you show competitively, trail ride, or just need a comfortable safe place for your horse to retire, you and your horse will love it here.</p>
+     
+    <p>Green pasture stable and training <span style="color:teal">teal</span> is a full service training and boarding facility, located just 20 miles east of Cininnati in Amila, ohio. whether you show competitively, trail ride, or just need a comfortable safe place for your horse to retire, you and your horse will love it here.</p>
     <ul>
        <li> Ride year around, regardless of the wather,in our indoor arena</li>
       <li>Enjoy easy access to miles of trails at east fork state park</li>
