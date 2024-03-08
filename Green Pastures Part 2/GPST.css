@@ -4,7 +4,7 @@ body{
 }
 header{
   background-color: #00B386;
-  textcolor: #FFFFFF;
+  color: #FFFFFF;
 }
 nav{
   background-color: #70DBDB;
@@ -16,7 +16,7 @@ dt{
 color: #00664D;
 }
 barn{
- textcolor: #70DBDB;
+ color: #70DBDB;
 }
 
   
